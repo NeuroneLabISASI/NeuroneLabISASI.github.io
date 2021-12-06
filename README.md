@@ -23,18 +23,41 @@ the quantitative phase-contrast analysis of tissue samples.
 
 **Models, Code and Data are available under explicit request: [Access Repository](https://drive.google.com/drive/folders/1sMfxaacmbbqsBMv-ILvGXmQ8A-ifGz3v?usp=sharing)**
 
+How to cite this paper: 
+```markdown
+Under Review
+```
+
+
+
+
 
 - ### Neuroblastoma cells classification through learning approaches by direct analysis of digital holograms
 _Mattia Delli Priscoli, Pasquale Memmolo, Gioele Ciaparrone, Vittorio Bianco, Francesco Merola,Lisa Miccio, Francesco Bardozzo, Daniele Pirone, Martina Mugnano, Flora Cimmino, Mario Capasso,Achille Iolascon, Pietro Ferraro,Roberto Tagliaferri_
 
 ```markdown
-The label-free single cell analysis by machine and Deep Learning, in combination with digital holography in transmission microscope configuration, is becoming a powerful framework exploited for phenotyping biological samples. Usually, quantitative phase images of cells are retrieved from the reconstructed complex diffraction patterns and used as inputs of a deep neural network. However, the phase retrieval process can be very time consuming and prone to errors. Here we address the classification of cells by using learning strategies with images coming directly from the raw recorded digital holograms, i.e. without any data processing or refocusing involved. Indeed, in the raw digital hologram the entire complex amplitude information of the sample is intrinsically embedded in the form of modulated fringes. We develop a training strategy, based on deep and feature based machine learning models, in order extract such information by skipping the classical reconstruction process for classifying different neuroblastoma cells. We provided an experimental validation by using the proposed strategy to classify two neuroblastoma cell lines.
+The label-free single cell analysis by machine and Deep Learning, in combination with digital 
+holography in transmission microscope configuration, is becoming a powerful framework exploited 
+for phenotyping biological samples. Usually, quantitative phase images of cells are retrieved 
+from the reconstructed complex diffraction patterns and used as inputs of a deep neural network.
+However, the phase retrieval process can be very time consuming and prone to errors. Here we 
+address the classification of cells by using learning strategies with images coming directly 
+from the raw recorded digital holograms, i.e. without any data processing or refocusing involved.
+Indeed, in the raw digital hologram the entire complex amplitude information of the sample is 
+intrinsically embedded in the form of modulated fringes. We develop a training strategy, based 
+on deep and feature based machine learning models, in order extract such information by skipping
+the classical reconstruction process for classifying different neuroblastoma cells. 
+We provided an experimental validation by using the proposed strategy to classify two
+neuroblastoma cell lines.
 
 ```
 
 How to cite this paper: 
 ```markdown
-M. Delli Priscoli et al., "Neuroblastoma Cells Classification Through Learning Approaches by Direct Analysis of Digital Holograms," in IEEE Journal of Selected Topics in Quantum Electronics, vol. 27, no. 5, pp. 1-9, Sept.-Oct. 2021, Art no. 5500309, doi: 10.1109/JSTQE.2021.3059532.
+M. Delli Priscoli et al., "Neuroblastoma Cells Classification Through Learning Approaches by 
+Direct Analysis of Digital Holograms," in 
+IEEE Journal of Selected Topics in Quantum Electronics, vol. 27, no. 5, pp. 1-9, Sept.-Oct. 2021,
+Art no. 5500309, doi: 10.1109/JSTQE.2021.3059532.
 ```
 
 
