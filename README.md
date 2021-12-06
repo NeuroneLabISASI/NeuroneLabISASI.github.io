@@ -39,19 +39,21 @@ Under Review
 _Mattia Delli Priscoli, Pasquale Memmolo, Gioele Ciaparrone, Vittorio Bianco, Francesco Merola,Lisa Miccio, Francesco Bardozzo, Daniele Pirone, Martina Mugnano, Flora Cimmino, Mario Capasso,Achille Iolascon, Pietro Ferraro,Roberto Tagliaferri_
 
 ```markdown
-The label-free single cell analysis by machine and Deep Learning, in combination with digital 
-holography in transmission microscope configuration, is becoming a powerful framework exploited 
-for phenotyping biological samples. Usually, quantitative phase images of cells are retrieved 
-from the reconstructed complex diffraction patterns and used as inputs of a deep neural network.
-However, the phase retrieval process can be very time consuming and prone to errors. Here we 
-address the classification of cells by using learning strategies with images coming directly 
-from the raw recorded digital holograms, i.e. without any data processing or refocusing involved.
-Indeed, in the raw digital hologram the entire complex amplitude information of the sample is 
-intrinsically embedded in the form of modulated fringes. We develop a training strategy, based 
-on deep and feature based machine learning models, in order extract such information by skipping
-the classical reconstruction process for classifying different neuroblastoma cells. 
-We provided an experimental validation by using the proposed strategy to classify two
-neuroblastoma cell lines.
+The label-free single cell analysis by machine and Deep Learning, in combination
+with digital holography in transmission microscope configuration, is becoming a 
+powerful framework exploited for phenotyping biological samples. Usually, 
+quantitative phase images of cells are retrieved from the reconstructed complex 
+diffraction patterns and used as inputs of a deep neural network.
+However, the phase retrieval process can be very time consuming and prone to 
+errors. Here we address the classification of cells by using learning strategies
+with images coming directly from the raw recorded digital holograms, i.e. without
+any data processing or refocusing involved. Indeed, in the raw digital hologram 
+the entire complex amplitude information of the sample is intrinsically embedded 
+in the form of modulated fringes. We develop a training strategy, based on deep 
+and feature based machine learning models, in order extract such information 
+by skipping the classical reconstruction process for classifying different 
+neuroblastoma cells. We provided an experimental validation by using the proposed
+strategy to classify two neuroblastoma cell lines.
 
 ```
 
@@ -64,7 +66,7 @@ Art no. 5500309, doi: 10.1109/JSTQE.2021.3059532.
 ```
 
 
-For general requests please contact us at **neuronelabisasi@engineer.com**.
+Should you need help to run our code please contact us at **neuronelabisasi@engineer.com**.
 
 Thank you!
 
