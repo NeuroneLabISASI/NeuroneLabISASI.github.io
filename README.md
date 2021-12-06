@@ -21,7 +21,7 @@ the quantitative phase-contrast analysis of tissue samples.
 
 ```
 
-:electron:
+
 
 **Models, Code and Data are available under explicit request: [Access Repository](https://drive.google.com/drive/folders/1sMfxaacmbbqsBMv-ILvGXmQ8A-ifGz3v?usp=sharing)**
 
