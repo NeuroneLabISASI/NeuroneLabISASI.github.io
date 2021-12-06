@@ -1,8 +1,9 @@
 ## Papers 
 
---- &nbsp;
+----- &nbsp;
 
-:electron: ###Deep learning-based, misalignment resilient, real-time Fourier Ptychographic Microscopy reconstruction of biological tissue slides
+:electron: 
+### Deep learning-based, misalignment resilient, real-time Fourier Ptychographic Microscopy reconstruction of biological tissue slides
 _Vittorio Bianco, Mattia Delli Priscoli, Daniele Pirone, Gennaro Zanfardino, Pasquale Memmolo, Francesco Bardozzo, Lisa Miccio, Gioele Ciaparrone, Pietro Ferraro, Roberto Tagliaferri_
 
 ```markdown
@@ -33,9 +34,10 @@ How to cite this paper:
 Under Review
 ```
 
----- &nbsp;
+----- &nbsp;
 
-:electron: ###Neuroblastoma cells classification through learning approaches by direct analysis of digital holograms
+:electron: 
+### Neuroblastoma cells classification through learning approaches by direct analysis of digital holograms
 _Mattia Delli Priscoli, Pasquale Memmolo, Gioele Ciaparrone, Vittorio Bianco, Francesco Merola,Lisa Miccio, Francesco Bardozzo, Daniele Pirone, Martina Mugnano, Flora Cimmino, Mario Capasso,Achille Iolascon, Pietro Ferraro,Roberto Tagliaferri_
 
 ```markdown
