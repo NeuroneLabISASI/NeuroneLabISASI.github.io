@@ -33,7 +33,7 @@ Under Review
 ```
 
 <p align="center">
-  <img width="300" height="300" src="https://cdn.dribbble.com/users/29147/screenshots/1699468/media/abd292aaf52144156535d3e9ee4f8ba6.gif">
+  <img width="250" height="300" src="https://cdn.dribbble.com/users/29147/screenshots/1699468/media/abd292aaf52144156535d3e9ee4f8ba6.gif">
 </p>
 
 ## Neuroblastoma cells classification through learning approaches by direct analysis of digital holograms
