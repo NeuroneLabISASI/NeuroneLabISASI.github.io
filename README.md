@@ -1,7 +1,7 @@
 ## Welcome to our GitHub Research Repository Pages
 
 
-### Deep learning-based, misalignment resilient, real-time Fourier Ptychographic Microscopy reconstruction of biological tissue slides
+- ### Deep learning-based, misalignment resilient, real-time Fourier Ptychographic Microscopy reconstruction of biological tissue slides
 _Vittorio Bianco, Mattia Delli Priscoli, Daniele Pirone, Gennaro Zanfardino, Pasquale Memmolo, Francesco Bardozzo, Lisa Miccio, Gioele Ciaparrone, Pietro Ferraro, Roberto Tagliaferri_
 
 ```markdown
@@ -24,7 +24,7 @@ the quantitative phase-contrast analysis of tissue samples.
 Models, Code and Data are available under explicit request: [Access Repository](https://drive.google.com/drive/folders/1sMfxaacmbbqsBMv-ILvGXmQ8A-ifGz3v?usp=sharing)
 
 
-### Deep learning-based, misalignment resilient, real-time Fourier Ptychographic Microscopy reconstruction of biological tissue slides
+- ### Neuroblastoma cells classification through learning approaches by direct analysis of digital holograms
 _Vittorio Bianco, Mattia Delli Priscoli, Daniele Pirone, Gennaro Zanfardino, Pasquale Memmolo, Francesco Bardozzo, Lisa Miccio, Gioele Ciaparrone, Pietro Ferraro, Roberto Tagliaferri_
 
 ```markdown
@@ -36,7 +36,7 @@ diagnosis on neural tissues, are retrieved using the network output. These are i
 
 Models, Code and Data are available under explicit request: [Access Repository](https://drive.google.com/drive/folders/1sMfxaacmbbqsBMv-ILvGXmQ8A-ifGz3v?usp=sharing)
 
-### Deep learning-based, misalignment resilient, real-time Fourier Ptychographic Microscopy reconstruction of biological tissue slides
+- ### Deep learning-based, misalignment resilient, real-time Fourier Ptychographic Microscopy reconstruction of biological tissue slides
 _Vittorio Bianco, Mattia Delli Priscoli, Daniele Pirone, Gennaro Zanfardino, Pasquale Memmolo, Francesco Bardozzo, Lisa Miccio, Gioele Ciaparrone, Pietro Ferraro, Roberto Tagliaferri_
 
 ```markdown
