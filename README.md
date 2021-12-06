@@ -1,4 +1,4 @@
-## Welcome to our GitHub Research Repository Pages
+# Welcome to our GitHub Research Repository
 
 
 - ### Deep learning-based, misalignment resilient, real-time Fourier Ptychographic Microscopy reconstruction of biological tissue slides
@@ -21,7 +21,7 @@ the quantitative phase-contrast analysis of tissue samples.
 
 ```
 
-Models, Code and Data are available under explicit request: [Access Repository](https://drive.google.com/drive/folders/1sMfxaacmbbqsBMv-ILvGXmQ8A-ifGz3v?usp=sharing)
+**Models, Code and Data are available under explicit request: [Access Repository](https://drive.google.com/drive/folders/1sMfxaacmbbqsBMv-ILvGXmQ8A-ifGz3v?usp=sharing)**
 
 
 - ### Neuroblastoma cells classification through learning approaches by direct analysis of digital holograms
