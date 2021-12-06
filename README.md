@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+## Welcome to our GitHub Research Repository Pages
 
-You can use the [editor on GitHub](https://github.com/NeuroneLabISASI/NeuroneLabISASI.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Deep learning-based, misalignment resilient, real-time Fourier Ptychographic Microscopy reconstruction of biological tissue slides
+_Vittorio Bianco, Mattia Delli Priscoli, Daniele Pirone, Gennaro Zanfardino, Pasquale Memmolo, Francesco Bardozzo, Lisa Miccio, Gioele Ciaparrone, Pietro Ferraro, Roberto Tagliaferri_
 
 ```markdown
-Syntax highlighted code block
+Fourier ptychographic microscopy probes label free samples from multiple angles and achieves super resolution phase-contrast imaging according to a synthetic aperture principle. Thus, it is particularly suitable for high-resolution imaging of tissue slides over a wide field of view. Recently, in order to make the optical setup robust against misalignments-induced artefacts, numerical multi-look has been added to the conventional phase retrieval process, thus allowing the
+elimination of related phase errors but at the cost of a long computational time. Here we train a generative adversarial network to emulate the process of complex amplitude estimation. Once trained, the network can accurately reconstruct in real-time Fourier ptychographic images acquired using a severely misaligned setup. We benchmarked the network by reconstructing images of animal neural tissue slides. Above all, we show that important morphometric information, relevant for
+diagnosis on neural tissues, are retrieved using the network output. These are in very good agreement with the parameters calculated from the ground-truth, thus speeding up significantly the quantitative phase-contrast analysis of tissue samples.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Models, Code and Data are available under explicit request: [Access Repository](https://drive.google.com/drive/folders/1sMfxaacmbbqsBMv-ILvGXmQ8A-ifGz3v?usp=sharing)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NeuroneLabISASI/NeuroneLabISASI.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Deep learning-based, misalignment resilient, real-time Fourier Ptychographic Microscopy reconstruction of biological tissue slides
+_Vittorio Bianco, Mattia Delli Priscoli, Daniele Pirone, Gennaro Zanfardino, Pasquale Memmolo, Francesco Bardozzo, Lisa Miccio, Gioele Ciaparrone, Pietro Ferraro, Roberto Tagliaferri_
 
-### Support or Contact
+```markdown
+Fourier ptychographic microscopy probes label free samples from multiple angles and achieves super resolution phase-contrast imaging according to a synthetic aperture principle. Thus, it is particularly suitable for high-resolution imaging of tissue slides over a wide field of view. Recently, in order to make the optical setup robust against misalignments-induced artefacts, numerical multi-look has been added to the conventional phase retrieval process, thus allowing the
+elimination of related phase errors but at the cost of a long computational time. Here we train a generative adversarial network to emulate the process of complex amplitude estimation. Once trained, the network can accurately reconstruct in real-time Fourier ptychographic images acquired using a severely misaligned setup. We benchmarked the network by reconstructing images of animal neural tissue slides. Above all, we show that important morphometric information, relevant for
+diagnosis on neural tissues, are retrieved using the network output. These are in very good agreement with the parameters calculated from the ground-truth, thus speeding up significantly the quantitative phase-contrast analysis of tissue samples.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+```
+
+Models, Code and Data are available under explicit request: [Access Repository](https://drive.google.com/drive/folders/1sMfxaacmbbqsBMv-ILvGXmQ8A-ifGz3v?usp=sharing)
+
+### Deep learning-based, misalignment resilient, real-time Fourier Ptychographic Microscopy reconstruction of biological tissue slides
+_Vittorio Bianco, Mattia Delli Priscoli, Daniele Pirone, Gennaro Zanfardino, Pasquale Memmolo, Francesco Bardozzo, Lisa Miccio, Gioele Ciaparrone, Pietro Ferraro, Roberto Tagliaferri_
+
+```markdown
+Fourier ptychographic microscopy probes label free samples from multiple angles and achieves super resolution phase-contrast imaging according to a synthetic aperture principle. Thus, it is particularly suitable for high-resolution imaging of tissue slides over a wide field of view. Recently, in order to make the optical setup robust against misalignments-induced artefacts, numerical multi-look has been added to the conventional phase retrieval process, thus allowing the
+elimination of related phase errors but at the cost of a long computational time. Here we train a generative adversarial network to emulate the process of complex amplitude estimation. Once trained, the network can accurately reconstruct in real-time Fourier ptychographic images acquired using a severely misaligned setup. We benchmarked the network by reconstructing images of animal neural tissue slides. Above all, we show that important morphometric information, relevant for
+diagnosis on neural tissues, are retrieved using the network output. These are in very good agreement with the parameters calculated from the ground-truth, thus speeding up significantly the quantitative phase-contrast analysis of tissue samples.
+
+```
+
+Models, Code and Data are available under explicit request: [Access Repository](https://drive.google.com/drive/folders/1sMfxaacmbbqsBMv-ILvGXmQ8A-ifGz3v?usp=sharing)
+
+
+
+
+
+
+
+For general requests please contact us at **neuronelabisasi@engineer.com**.
+
+Thank you!
+
+
