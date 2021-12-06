@@ -76,7 +76,9 @@ Art no. 5500309, doi: 10.1109/JSTQE.2021.3059532.
 <details><summary>Contact us!</summary>
 <p>
 
-  Should you need help to run our code please contact us at <h5> neuronelabisasi at engineer dot com </h5>
+  Should you need help to run our code please contact us at 
+  <h5> mdellipriscoli at unisa dot it </h5>
+  <h5> vittorio.bianco at isasi dot cnr dot it </h5>
 
 Thank you!
 
