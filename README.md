@@ -1,5 +1,6 @@
 # Welcome to our GitHub Research Repository
 
+![Dashed Line](https://github.com/garciadelcastillo/-dashed-lines-for-processing-/blob/master/assets/dashed_line.gif "Dashed Line")
 
 - ### :electron: Deep learning-based, misalignment resilient, real-time Fourier Ptychographic Microscopy reconstruction of biological tissue slides
 _Vittorio Bianco, Mattia Delli Priscoli, Daniele Pirone, Gennaro Zanfardino, Pasquale Memmolo, Francesco Bardozzo, Lisa Miccio, Gioele Ciaparrone, Pietro Ferraro, Roberto Tagliaferri_
@@ -23,6 +24,7 @@ the parameters calculated from the ground-truth, thus speeding up significantly
 the quantitative phase-contrast analysis of tissue samples.
 
 ```
+![Dashed Line](https://github.com/garciadelcastillo/-dashed-lines-for-processing-/blob/master/assets/dashed_line.gif "Dashed Line")
 
 **Models, Code and Data are available under explicit request: [Access Repository](https://drive.google.com/drive/folders/1sMfxaacmbbqsBMv-ILvGXmQ8A-ifGz3v?usp=sharing)**
 
