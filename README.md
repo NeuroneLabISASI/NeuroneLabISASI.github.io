@@ -24,7 +24,7 @@ the parameters calculated from the ground-truth, thus speeding up significantly
 the quantitative phase-contrast analysis of tissue samples.
 
 ```
--------------
+
 
 **Models, Code and Data are available under explicit request: [Access Repository](https://drive.google.com/drive/folders/1sMfxaacmbbqsBMv-ILvGXmQ8A-ifGz3v?usp=sharing)**
 
@@ -33,7 +33,7 @@ How to cite this paper:
 Under Review
 ```
 
-
+-------------
 
 
 
