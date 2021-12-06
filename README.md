@@ -58,6 +58,8 @@ strategy to classify two neuroblastoma cell lines.
 
 ```
 
+[Paper Link](https://ieeexplore.ieee.org/document/9359336)
+
 How to cite this paper: 
 ```markdown
 M. Delli Priscoli et al., "Neuroblastoma Cells Classification Through 
@@ -67,7 +69,7 @@ vol. 27, no. 5, pp. 1-9, Sept.-Oct. 2021,
 Art no. 5500309, doi: 10.1109/JSTQE.2021.3059532.
 ```
 
-
+##
 Should you need help to run our code please contact us at **neuronelabisasi@engineer.com**.
 
 Thank you!
