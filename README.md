@@ -1,3 +1,4 @@
+<hr>
 <p align="center">
   <img width="300" height="300" src="http://www.gifanimategratis.eu/img/animali/rane/rane_57.gif">
 </p>
@@ -32,7 +33,7 @@ How to cite this paper:
 Under Review
 ```
 
-## 
+<hr>
 
 <p align="center">
   <img width="250" height="300" src="https://cdn.dribbble.com/users/29147/screenshots/1699468/media/abd292aaf52144156535d3e9ee4f8ba6.gif">
@@ -75,7 +76,7 @@ Art no. 5500309, doi: 10.1109/JSTQE.2021.3059532.
 <details><summary>Contact us!</summary>
 <p>
 
-  Should you need help to run our code please contact us at <h6> neuronelabisasi at engineer dot com </h6>.
+  Should you need help to run our code please contact us at <h5> neuronelabisasi at engineer dot com </h5>
 
 Thank you!
 
