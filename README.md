@@ -1,6 +1,6 @@
 ## Papers 
 
------ &nbsp;
+
 
 :electron:
 
@@ -34,8 +34,6 @@ How to cite this paper:
 ```markdown
 Under Review
 ```
-
------ &nbsp;
 
 :electron: 
 
