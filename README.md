@@ -32,7 +32,7 @@ How to cite this paper:
 Under Review
 ```
 
-##
+## 
 
 <p align="center">
   <img width="250" height="300" src="https://cdn.dribbble.com/users/29147/screenshots/1699468/media/abd292aaf52144156535d3e9ee4f8ba6.gif">
@@ -75,7 +75,7 @@ Art no. 5500309, doi: 10.1109/JSTQE.2021.3059532.
 <details><summary>Contact us!</summary>
 <p>
 
-  Should you need help to run our code please contact us at <b>neuronelabisasi@engineer.com</b>.
+  Should you need help to run our code please contact us at <h1> neuronelabisasi at engineer dot com </h1>.
 
 Thank you!
 
