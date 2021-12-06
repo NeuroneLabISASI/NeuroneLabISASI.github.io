@@ -59,9 +59,10 @@ strategy to classify two neuroblastoma cell lines.
 
 How to cite this paper: 
 ```markdown
-M. Delli Priscoli et al., "Neuroblastoma Cells Classification Through Learning Approaches by 
-Direct Analysis of Digital Holograms," in 
-IEEE Journal of Selected Topics in Quantum Electronics, vol. 27, no. 5, pp. 1-9, Sept.-Oct. 2021,
+M. Delli Priscoli et al., "Neuroblastoma Cells Classification Through 
+Learning Approaches by Direct Analysis of Digital Holograms,"
+in  IEEE Journal of Selected Topics in Quantum Electronics, 
+vol. 27, no. 5, pp. 1-9, Sept.-Oct. 2021,
 Art no. 5500309, doi: 10.1109/JSTQE.2021.3059532.
 ```
 
